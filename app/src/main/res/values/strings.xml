@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VIOforCompose</string>
+    <string name="point_your_phone_down">Point your phone down at an empty space, and move it around slowly</string>
+    <string name="pose_good">Good VIO Position</string>
+</resources>
